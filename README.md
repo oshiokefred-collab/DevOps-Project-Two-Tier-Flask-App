@@ -25,7 +25,7 @@ This fork extends the original tutorial with in‑depth troubleshooting, infrast
    - **Deploy with Docker Compose** – stops any existing containers and starts fresh `flask` and `mysql` containers.
 4. The Flask application becomes available at `http://<ec2-public-ip>:5000`.
 
-*(Add your architecture diagram here – export it as `architecture.png` and place it in the repository root.)*
+
 
 ## Deployment Steps (Summary)
 1. Launch an EC2 instance (Ubuntu 22.04, t3.small) and configure security groups to allow ports **22**, **5000**, and **8080**.
@@ -100,4 +100,3 @@ This fork extends the deployment with personal troubleshooting, infrastructure i
 ## Author
 **Saliu Aminu Oshioke**  
 [GitHub](https://github.com/oshiokefred-collab)  
-*Cloud & DevOps Enthusiast | Intern at Pinnacle Labs*
